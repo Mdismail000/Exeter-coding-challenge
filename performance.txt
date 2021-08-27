@@ -1,0 +1,2 @@
+Time to process: 17 minutes 29 seconds
+Memory used: 22.5703125 MB
